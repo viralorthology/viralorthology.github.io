@@ -1,0 +1,22 @@
+site_name: Viral Orthology
+site_url: https://viralorthology.github.io/
+
+theme:
+  name: readthedocs
+
+nav:
+  - Home: index.md
+  - Getting Started:
+      - Installation: getting_started/installation.md
+      - Quickstart: getting_started/quickstart.md
+
+  - Usage:
+      - Basic Usage: usage/basic_usage.md
+      - Configuration: usage/configuration.md
+
+  - Core Pipeline Workflow:
+      - Overview: core_pipeline_workflow/overview.md
+
+  - Downstream Modules:
+      - Enrichment Modules: downstream_modules/enrichment_modules.md
+      - Analysis Modules: downstream_modules/analysis_modules.md
