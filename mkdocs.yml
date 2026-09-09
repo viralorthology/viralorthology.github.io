@@ -6,13 +6,10 @@ theme:
 
 nav:
   - Home: index.md
-  - Getting Started:
-      - Installation: getting_started/installation.md
-      - Quickstart: getting_started/quickstart.md
 
   - Usage:
       - Basic Usage: usage/basic_usage.md
-      - Configuration: usage/configuration.md
+      - Tools Parameters: usage/tool_parameters.md
 
   - Core Pipeline Workflow:
       - Overview: core_pipeline_workflow/overview.md
