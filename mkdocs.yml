@@ -9,7 +9,7 @@ nav:
 
   - Usage:
       - Basic Usage: usage/basic_usage.md
-      - Tools Parameters: usage/tool_parameters.md
+      - Tool Parameters: usage/tool_parameters.md
 
   - Core Pipeline Workflow:
       - Overview: core_pipeline_workflow/overview.md
