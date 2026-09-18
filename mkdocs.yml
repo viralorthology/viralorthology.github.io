@@ -14,6 +14,17 @@ nav:
   - Core Pipeline Workflow:
       - Overview: core_pipeline_workflow/overview.md
 
-  - Downstream Modules:
-      - Enrichment Modules: downstream_modules/enrichment_modules.md
-      - Analysis Modules: downstream_modules/analysis_modules.md
+  - Enrichment Modules:
+      - Overview: enrichment_modules/overview.md
+      - Synteny: enrichment_modules/synteny.md
+      - Aminoacid composition: enrichment_modules/aminoacid_composition.md
+      - Secondary structure: enrichment_modules/secondary_structure.md
+      - Tertiary structure: enrichment_modules/tertiary_structure.md
+      - HMM profile: enrichment_modules/hmm_profile.md
+      - Blastp: enrichment_modules/blastp.md
+
+  - Analysis Modules:
+      - Overview: analysis_modules/overview.md
+      - Z-score: analysis_modules/zscore.md
+      - Kimura 2-p: analysis_modules/kimura.md
+      - Protein domains: analysis_modules/protein_domains.md
